@@ -5,7 +5,7 @@
 
 const Config = {
   // By default, we'll connect to local development server
-  API_BASE_URL: 'http://localhost:3000/hackathon',
+  API_BASE_URL: 'https://hackstore.onrender.com/hackathon',
   
   // Default to empty admin code - should be provided at login time
   ADMIN_CODE: '',

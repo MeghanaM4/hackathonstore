@@ -1,0 +1,24 @@
+[
+  {
+    "id": "707-7666",
+    "name": "RS PRO 1kΩ Carbon Film Resistor 0.25W ±5%",
+    "description": "N/A",
+    "datasheet": "https://docs.rs-online.com/0c4b/A700000008919910.pdf",
+    "manufacturer": "RS Components Ltd.",
+    "imageUrl": "https://media.rs-online.com/t_large/F7077666-01.jpg",
+    "type": "custom",
+    "price": 1.23,
+    "stock": 123
+  },
+  {
+    "id": "296-6501-1-ND",
+    "price": 1.23,
+    "stock": 123,
+    "type": "digikey",
+    "name": "DigiKey Part 296-6501-1-ND",
+    "description": "No description available",
+    "manufacturer": "DigiKey",
+    "datasheet": "#",
+    "imageUrl": "img/placeholder.svg"
+  }
+]

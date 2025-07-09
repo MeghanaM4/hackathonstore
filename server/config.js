@@ -25,7 +25,7 @@ const config = {
   webpush: {
     VAPID_PUBLIC_KEY: process.env.VAPID_PUBLIC_KEY,
     VAPID_PRIVATE_KEY: process.env.VAPID_PRIVATE_KEY,
-    CONTACT_EMAIL: process.env.CONTACT_EMAIL || 'example@yourdomain.org',
+    CONTACT_EMAIL: process.env.CONTACT_EMAIL || 'meghana@hackclub.com',
   }
 };
 

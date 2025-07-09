@@ -58,6 +58,10 @@ app.use(cors({
 }));
 app.use(bodyParser.json());
 
+
+//claude told me to do this
+app.use(express.static(path.join(__dirname, '../client')));
+
 // Store data
 let allItems = [];
 let orders = {};

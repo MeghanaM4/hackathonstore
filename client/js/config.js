@@ -5,14 +5,14 @@
 
 const Config = {
   // By default, we'll connect to local development server
-  API_BASE_URL: 'https://hackathonstore.onrender.com/hackathon',
+  API_BASE_URL: 'https://localhost:3000',
   
   // Default to empty admin code - should be provided at login time
   ADMIN_CODE: '',
   
   // Environment-specific configuration
   production: {
-    API_BASE_URL: 'https://CHANGEME.com/hackathon',
+    API_BASE_URL: 'https://hackathonstore.onrender.com/hackathon',
   },
   
   // Get environment-specific configuration or default
